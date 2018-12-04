@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Material Design-Md</string>
+
+
+    <string name="hello"><font fgcolor="808080">PRIMARY SAVINGS *4566 </font>
+
+            <font fgcolor="#FF007F">$12,556.00</font></string>
+
+</resources>
